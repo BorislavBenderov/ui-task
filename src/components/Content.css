@@ -1,0 +1,42 @@
+.content__container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 690px;
+    margin: 20px auto;
+    background-color: #F6F6F6;
+}
+
+.content__card {
+    width: 220px;
+    margin: 5px;
+    background-color: white;
+}
+
+.text__content {
+    padding: 5px;
+}
+
+.excerpt {
+    height: 100px;
+}
+
+.content__card img {
+    width: 100%;
+    height: 120px;
+}
+
+.category {
+    display: flex;
+    align-items: center;
+}
+
+.vl {
+    border-left: 2px solid #6696B0;
+    height: 11px;
+}
+
+.category__title {
+    margin-left: 5px;
+    font-size: small;
+    color: #9D9D9D;
+}
