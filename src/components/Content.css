@@ -18,6 +18,8 @@
 
 .excerpt {
     height: 100px;
+    line-height: 1.1;
+    color: #594F4C;
 }
 
 .content__card img {
