@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ui-task/static/css/main.83f9ab7f.css",
+    "main.js": "/ui-task/static/js/main.aa83f324.js",
+    "index.html": "/ui-task/index.html",
+    "main.83f9ab7f.css.map": "/ui-task/static/css/main.83f9ab7f.css.map",
+    "main.aa83f324.js.map": "/ui-task/static/js/main.aa83f324.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83f9ab7f.css",
+    "static/js/main.aa83f324.js"
+  ]
+}
